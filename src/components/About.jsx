@@ -20,7 +20,7 @@ function About() {
         <ul className="list-disc list-inside text-gray-700">
           <li>Bachelor's in Computer Science And Engineering, Matoshri Pratisthan Group Of Institution Khupsarwadi,Nanded, 2024</li>
           <li>Completed Full Stack Development Course in java, Kiran Academy,pune, 2024</li>
-          <li>Certified in [Relevant Certification], [Institution/Platform], [Year]</li>
+          <li>Certified in Python, Intershala, 2022</li>
         </ul>
       </div>
 
@@ -45,7 +45,7 @@ function About() {
             <strong>Portfolio Website:</strong> Built my personal portfolio using React.js to showcase my skills and projects.
           </li>
           <li>
-            <strong>E-commerce App:</strong> Developed a mock e-commerce application with user authentication, product listings, and a shopping cart using the MERN stack.
+            <strong>Fruit Disease:</strong> Developed a mock Fruit Disease application with user authentication, product listings, and a shopping cart using the MERN stack.
           </li>
           <li>
             <strong>Blog Platform:</strong> Created a blog platform where users can post and comment, integrating CRUD operations with MongoDB.
@@ -54,6 +54,7 @@ function About() {
       </div>
 
       <div className="mt-12">
+
         <h2 className="text-2xl font-semibold text-green-600 mb-4">
           Achievements
         </h2>
